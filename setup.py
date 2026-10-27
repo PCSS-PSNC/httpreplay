@@ -18,7 +18,7 @@ setup(
         "dpkt>=1.9.2",
         "tlslite-ng==0.7.6",
         "click",
-        "brotli==1.0.7",
+        "brotli>=1.2.1",
         "future",
     ],
     extras_require={
